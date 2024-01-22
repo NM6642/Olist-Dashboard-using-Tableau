@@ -1,7 +1,7 @@
 CONTEXT:
 
 
-/n/Olist is the largest department store in Brazilian marketplaces that connects small
+Olist is the largest department store in Brazilian marketplaces that connects small
 businesses from all over Brazil to channels without hassle and with a single contract.
 Those merchants are able to sell their products through the Olist Store and ship them
 directly to the customers using Olist logistics partners.
